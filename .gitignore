@@ -1,0 +1,14 @@
+# ゲームの原本・展開物（配布しない）
+orig/
+extract/
+work/
+dist/
+# MS ゴシックから作ったフォント画像（配布しない。ツールが遊ぶ人の PC で作る）
+ja/font_*.png
+ja/missing.txt
+ja/boot_log.txt
+# ビルド生成物
+tools/JaPatcher/bin/
+tools/JaPatcher/obj/
+__pycache__/
+*.pyc
