@@ -3,6 +3,9 @@
 Steam 版 Armoured Commander II（v1.3.8 で確認）の画面を日本語で表示するパッチです。
 ゲームの会社・作者とは関係のない非公式のものです。問い合わせは作者ではなく配布元へお願いします。
 
+## ダウンロード
+[Releases](https://github.com/tomo9878/armcom2-ja/releases/latest) から `ArmCom2_JA_<日付>.zip` をダウンロードしてください。
+
 ## 入れ方
 1. 配布 ZIP（`ArmCom2_JA_<日付>.zip`）をすべて展開します（場所はどこでもかまいません）。
 2. ゲームを終了した状態で `ArmCom2_JA.exe` をダブルクリックします。
